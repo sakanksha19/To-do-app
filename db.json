@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Contest",
+      "date": "2022-03-20",
+      "time": "09:30",
+      "id": 1
+    },
+    {
+      "text": "Submit assignement",
+      "date": "2022-03-24",
+      "time": "12:00",
+      "id": 2
+    },
+    {
+      "text": "Interview",
+      "date": "2022-03-31",
+      "time": "17:00",
+      "id": 3
+    }
+  ]
+}
